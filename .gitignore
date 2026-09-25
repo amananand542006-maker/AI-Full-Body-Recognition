@@ -1,0 +1,29 @@
+.venv/
+.venv311/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/raw/
+data/landmarks/
+data/processed/
+*.npy
+
+# Python virtual environments
+.venv/
+.venv311/
+.venv312/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local files and datasets
+.DS_Store
+.env
+data/raw/
+data/landmarks/
+data/processed/
+*.npy
